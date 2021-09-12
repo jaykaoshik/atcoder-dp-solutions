@@ -4,4 +4,5 @@
 [_Update_] Will be Posting Solutions from September 18, 2021.
 <br><br>
 Solutions Posted For:<br>
-🚩 [A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)
+🚩 [A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)<br>
+🚩 [A - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)
