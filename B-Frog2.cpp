@@ -21,7 +21,7 @@ void solve()
 			dp[i]=min(dp[i],abs(h[i]-h[j])+dp[j]);
 		}
 	}
-    cout<<dp[n];
+    	cout<<dp[n];
 }
 int main()
 {
