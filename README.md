@@ -5,3 +5,5 @@ Solutions Posted For:<br>
 🚩 [A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)<br>
 🚩 [B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)<br>
 🚩 [C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)
+
+<a href="https://atcoder.jp/contests/dp/tasks/dp_a" target="_blank">A - Frog 1</a>
