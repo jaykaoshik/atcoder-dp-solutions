@@ -1,4 +1,4 @@
-# 🧠 [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
+# 🕸️ [AtCoder Educational DP Contest](https://atcoder.jp/contests/dp)
 
 <!-- <br><br> -->
 Solutions Posted For The Following:<br>
