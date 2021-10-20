@@ -3,7 +3,7 @@
 ☑️&nbsp;&nbsp;[A - Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)<br>
 ☑️&nbsp;&nbsp;[B - Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)<br>
 ☑️&nbsp;&nbsp;[C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)<br>
-❎&nbsp;&nbsp;[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)<br>
+☑️&nbsp;&nbsp;[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)<br>
 ❎&nbsp;&nbsp;[E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)<br>
 ❎&nbsp;&nbsp;[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)<br>
 ❎&nbsp;&nbsp;[G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)<br>
