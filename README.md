@@ -5,7 +5,7 @@
 ☑️&nbsp;&nbsp;[C - Vacation](https://atcoder.jp/contests/dp/tasks/dp_c)<br>
 ☑️&nbsp;&nbsp;[D - Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)<br>
 ☑️&nbsp;&nbsp;[E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e)<br>
-❎&nbsp;&nbsp;[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)<br>
+☑️&nbsp;&nbsp;[F - LCS](https://atcoder.jp/contests/dp/tasks/dp_f)<br>
 ❎&nbsp;&nbsp;[G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g)<br>
 ❎&nbsp;&nbsp;[H - Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h)<br>
 ❎&nbsp;&nbsp;[I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i)<br>
