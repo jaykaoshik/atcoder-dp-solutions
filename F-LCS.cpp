@@ -46,7 +46,7 @@ void solve()
             }
         }
     }
-    cout<<LCS;
+    cout<<LCS<<"\n";
 }
 int main()
 {
